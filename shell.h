@@ -181,7 +181,7 @@ void cd_to(data_shell *datash);
 void cd_previous(data_shell *datash);
 void cd_to_home(data_shell *datash);
 
-/* cd_simpleshell.c */
+/* cd_shell.c */
 int cd_shell(data_shell *datash);
 
 /* get_builtin */
