@@ -1,2 +1,2 @@
 Simple shell project
-Contributor: [Edem Emmanuel]
+Contributor: [Edem Emmanuel](https://github.com/emmaedem)
